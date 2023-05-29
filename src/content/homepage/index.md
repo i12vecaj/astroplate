@@ -1,32 +1,31 @@
 ---
 # Banner
 banner:
-  title: "UNIPRO: ¿qué deseas proponer a la UCO?"
-  content: "herramienta de innovación tecnológica que permita trasladar a la Universidad las demandas de formación,investigación, proyección e innovación que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
+  title: "UNIpro: ¿qué deseas proponer a la UCO?"
+  content: "UNIpro es una herramienta de innovación tecnológica que permita trasladar a la Universidad las demandas de formación,investigación, proyección e innovación que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Plantear una propuesta"
-    link: "https://github.com/zeon-studio/astroplate"
+    link: "#"
 
 # Features
 features:
-  - title: "¿Qué es UNIPRO?"
+  - title: "¿Qué es UNIpro?"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "UNIpro es una plataforma digital que pertenece a la Universidad de Córdoba, con el objetivo de permitir que cualquier usuari@ pueda plantear una petición o hacer una propuesta a la UCO. Estamos aquí para escucharte:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "10+ Formación: "
+      - "Investigación: "
+      - "Innovación: "
+      - "Proyección:"
+      - "**Otro tipo de propuestase** a determinar"
     button:
       enable: false
       label: "Plantear una propuesta"
       link: "#"
 
-  - title: "¿Cómo funciona UNIPRO?"
+  - title: "¿Cómo funciona UNIpro?"
     image: "/images/service-2.png"
     content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
