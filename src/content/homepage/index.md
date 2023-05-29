@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "UNIpro: ¿qué deseas proponer a la UCO?"
-  content: "UNIpro es una herramienta de innovación tecnológica que permita trasladar a la Universidad las demandas de formación,investigación, proyección e innovación que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
+  title: "UNIpro: ¿qué deseas proponer a la Universidad de Córdoba?"
+  content: "UNIpro es una **herramienta** de innovación tecnológica que permita trasladar a la Universidad las **demandas de formación,investigación, proyección e innovación** que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
   image: "/images/banner.png"
   button:
     enable: true
@@ -15,7 +15,7 @@ features:
     image: "/images/service-1.png"
     content: "UNIpro es una plataforma digital que pertenece a la Universidad de Córdoba, con el objetivo de permitir que cualquier usuari@ pueda plantear una petición o hacer una propuesta a la UCO. Estamos aquí para escucharte:"
     bulletpoints:
-      - "10+ Formación: "
+      - "Formación: "
       - "Investigación: "
       - "Innovación: "
       - "Proyección:"
@@ -34,8 +34,8 @@ features:
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "PLANTEAR UNA PROPUESTA"
+      link: "#"
 
   - title: "¿Puedo presentar cualquier tipo de propuesta o idea a la Universidad de Córdoba?"
     image: "/images/service-3.png"
@@ -46,7 +46,7 @@ features:
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "PLANTEAR UNA PROPUESTA"
+      link: "#"
 ---
