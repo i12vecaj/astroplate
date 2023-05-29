@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "UNIPRO: ¿qué deseas proponer a la UCO?"
+  content: "herramienta de innovación tecnológica que permita trasladar a la Universidad las demandas de formación,investigación, proyección e innovación que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Plantear una propuesta"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
