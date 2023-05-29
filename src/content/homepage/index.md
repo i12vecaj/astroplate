@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Plantear una propuesta"
+    label: "PLANTEAR UNA PROPUESTA"
     link: "#"
 
 # Features
@@ -22,7 +22,7 @@ features:
       - "**Otro tipo de propuestase** a determinar"
     button:
       enable: false
-      label: "Plantear una propuesta"
+      label: "PLANTEAR UNA PROPUESTA"
       link: "#"
 
   - title: "¿Cómo funciona UNIpro?"
