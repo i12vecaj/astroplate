@@ -15,11 +15,11 @@ features:
     image: "/images/service-1.png"
     content: "UNIpro es una plataforma digital que pertenece a la Universidad de Córdoba, con el objetivo de permitir que cualquier usuari@ pueda plantear una petición o hacer una propuesta a la UCO. Estamos aquí para escucharte:"
     bulletpoints:
-      - "Formación: "
-      - "Investigación: "
-      - "Innovación: "
-      - "Proyección:"
-      - "**Otro tipo de propuestase** a determinar"
+      - "Formación: ¿quieres que organicemos un curso de una temática específica? ¿Algún estudio oficial que quieras proponer?"
+      - "Investigación: ¿eres miembro de un grupo de investigación y necesitas ayuda? Te escuchamos ..."
+      - "Innovación: herramientas, metodologías, ..."
+      - "Proyección: entrevistas, foros, jornadas, ..."
+      - "**Otro tipo de propuestas** todo tiene cabida en la Universidad de Córdoba, ¿qué propones?"
     button:
       enable: false
       label: "PLANTEAR UNA PROPUESTA"
@@ -27,7 +27,7 @@ features:
 
   - title: "¿Cómo funciona UNIpro?"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Es muy sencillo: puedes plantear una propuesta en alguna de las categorías existentes en el sistema. Y si tu idea o propuesta no encaja en ninguna de ellas, puedes seleccionar "**Otro tipo de propuestas**"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
@@ -39,12 +39,12 @@ features:
 
   - title: "¿Puedo presentar cualquier tipo de propuesta o idea a la Universidad de Córdoba?"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "La respuesta es SÍ. Desde la Universidad de Córdoba pensamos que todo lo que aporte valor y conocimiento a la ciudadanía tiene cabida en nuestra Universidad."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Eventos, conferencias, entrevistas, ocio, deporte, música ... ..."
+      - "Servicios para empresas, gestión de espacios ... "
+      - "Ideas innovadoras ..."
+      - "Tecnología ... "
     button:
       enable: true
       label: "PLANTEAR UNA PROPUESTA"
