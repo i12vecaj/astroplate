@@ -27,7 +27,7 @@ features:
 
   - title: "¿Cómo funciona UNIpro?"
     image: "/images/service-2.png"
-    content: "Es muy sencillo: puedes plantear una propuesta en alguna de las categorías existentes en el sistema. Y si tu idea o propuesta no encaja en ninguna de ellas, puedes seleccionar "**Otro tipo de propuestas**"
+    content: "Es muy sencillo: puedes plantear una propuesta en alguna de las categorías existentes en el sistema. Y si tu idea o propuesta no encaja en ninguna de ellas, puedes seleccionar **Otro tipo de propuestas** "
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
