@@ -5,52 +5,27 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Unipro",
       "url": "/about"
     },
     {
-      "name": "Elements",
+      "name": "Qué es",
       "url": "/elements"
     },
     {
-      "name": "Pages",
+      "name": "Cómo funciona",
       "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Search",
-          "url": "/search"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
+      "hasChildren": false,
+      
     }
   ],
   "footer": [
     {
-      "name": "Elements",
+      "name": "Aviso legal",
       "url": "/elements"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Política de privacidad",
       "url": "/privacy-policy"
     }
   ]
