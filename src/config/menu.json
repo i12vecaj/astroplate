@@ -6,11 +6,11 @@
     },
     {
       "name": "Qué es UNIpro",
-      "url": "/about"
+      "url": "#"
     },
     {
       "name": "Cómo funciona",
-      "url": "/elements"
+      "url": "#"
     },
     {
       "name": "Quién puede usarlo",
@@ -47,7 +47,7 @@
   "footer": [
     {
       "name": "Aviso legal",
-      "url": "/elements"
+      "url": "#"
     },
     {
       "name": "Política de privacidad",
