@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "UNIpro: ¿qué deseas proponer a la Universidad de Córdoba?"
+  title: "UNIpro: ¿qué deseas encontrar en la Universidad de Córdoba?"
   content: "UNIpro es una **herramienta** de innovación tecnológica que permita trasladar a la Universidad las **demandas de formación,investigación, proyección e innovación** que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "PLANTEAR UNA PROPUESTA"
+    label: "BUSCAR ALGO EN LA UCO"
     link: "#"
 
 # Features
@@ -22,7 +22,7 @@ features:
       - "**Otro tipo de propuestas** todo tiene cabida en la Universidad de Córdoba, ¿qué propones?"
     button:
       enable: false
-      label: "PLANTEAR UNA PROPUESTA"
+      label: "DESEO BUSCAR ALGO EN LA UCO"
       link: "#"
 
   - title: "¿Cómo funciona UNIpro?"
@@ -34,7 +34,7 @@ features:
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
       enable: true
-      label: "PLANTEAR UNA PROPUESTA"
+      label: "QUIERO ENCONTRAR ALGO EN LA UCO"
       link: "#"
 
   - title: "¿Puedo presentar cualquier tipo de propuesta o idea a la Universidad de Córdoba?"
