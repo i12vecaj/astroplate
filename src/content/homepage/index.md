@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "BUSCAR ALGO EN LA UCO"
-    link: "#"
+    link: "https://buscadorunipro.fundecor.es"
 
 # Features
 features:
@@ -23,7 +23,7 @@ features:
     button:
       enable: false
       label: "DESEO BUSCAR ALGO EN LA UCO"
-      link: "#"
+      link: "https://buscadorunipro.fundecor.es"
 
   - title: "¿Cómo funciona UNIpro?"
     image: "/images/service-2.png"
@@ -35,7 +35,7 @@ features:
     button:
       enable: true
       label: "QUIERO ENCONTRAR ALGO EN LA UCO"
-      link: "#"
+      link: "https://buscadorunipro.fundecor.es"
 
   - title: "¿Puedo presentar cualquier tipo de propuesta o idea a la Universidad de Córdoba?"
     image: "/images/service-3.png"
