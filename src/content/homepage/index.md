@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "QUIERO HACER UNA PROPUESTA / DEMANDA A LA UCO"
-    link: "https://buscadorunipro.fundecor.es"
+    link: "https://buscadorunipro.fundecor.es/formulario"
 
 # Features
 features:
@@ -23,7 +23,7 @@ features:
     button:
       enable: false
       label: "DESEO PROPONER ALGO A LA UCO"
-      link: "https://buscadorunipro.fundecor.es"
+      link: "https://buscadorunipro.fundecor.es/formulario"
 
   - title: "¿Cómo funciona UNIpro?"
     image: "/images/service-2.png"
@@ -35,7 +35,7 @@ features:
     button:
       enable: true
       label: "QUIERO HACER UNA PROPUESTA / DEMANDA"
-      link: "https://buscadorunipro.fundecor.es"
+      link: "https://buscadorunipro.fundecor.es/formulario"
 
   - title: "¿Puedo presentar cualquier tipo de propuesta o idea a la Universidad de Córdoba?"
     image: "/images/service-3.png"
@@ -48,5 +48,5 @@ features:
     button:
       enable: true
       label: "QUIERO HACER UNA PROPUESTA / DEMANDA"
-      link: "#"
+      link: "https://buscadorunipro.fundecor.es/formulario"
 ---
