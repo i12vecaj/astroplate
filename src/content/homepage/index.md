@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Plantear una propuesta o demanda"
+    label: "QUIERO HACER UNA PROPUESTA / DEMANDA A LA UCO"
     link: "https://buscadorunipro.fundecor.es"
 
 # Features
