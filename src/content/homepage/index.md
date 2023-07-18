@@ -29,9 +29,9 @@ features:
     image: "/images/service-2.png"
     content: "Es muy sencillo: puedes plantear una propuesta en alguna de las categorías existentes en el sistema. Desde la Universidad de Córdoba, canalizaremos la información y **te ofreceremos la oferta de servicios** que más se acerque a tu petición o demanda. "
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Primero: rellena y envía el formulario de tu propuesta o demanda."
+      - "Segundo: espera a que desde la UCO te respondamos (lo haremos al mismo email que has indicado en el formulario anterior)."
+      - "Tercero: desde la UCO te enviaremos la oferta de servicios disponibles para la demanda que nos has planteado."
     button:
       enable: true
       label: "QUIERO HACER UNA PROPUESTA / DEMANDA"
