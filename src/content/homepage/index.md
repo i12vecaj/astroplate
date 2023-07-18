@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "UNIpro: ¿qué deseas proponer a la Universidad de Córdoba?"
+  title: "UNIpro: ¿qué podemos hacer por ti?"
   content: "UNIpro es una **herramienta** de innovación tecnológica que permita trasladar a la Universidad las **demandas de formación,investigación, proyección e innovación** que genera el territorio de la provincia de Córdoba a través de sus comarcas, sectores profesionales y tejido asociativo."
   image: "/images/banner.png"
   button:
